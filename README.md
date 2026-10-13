@@ -1,4 +1,4 @@
-# ohs-training-compliance-app
+# APP-SSO-LINKAPSIS
 
 **App web de Seguridad y Salud Ocupacional: capacitaciones y cumplimiento legal**
 
@@ -41,7 +41,8 @@ Astro (SSR) · React · TypeScript · Tailwind · Supabase (Auth, PostgreSQL, RL
 
 ## Capturas
 <!-- TODO: mockups con datos ficticios -->
-![Dashboard](docs/img/dashboard.png)
+<img width="1811" height="904" alt="image" src="https://github.com/user-attachments/assets/f07cfa29-50f8-4c33-bb2e-b7a4caad9008" />
+
 
 ## Autor
 Tito Ruiz Haros · [github.com/titoruizh](https://github.com/titoruizh)
